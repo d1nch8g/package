@@ -1,0 +1,10 @@
+pkgname=testpkg
+pkgver=1
+pkgrel=1
+pkgdesc="First test package"
+arch=('x86_64')
+url="https://example.com/testpkg1"
+
+package() {
+  cd 
+}
