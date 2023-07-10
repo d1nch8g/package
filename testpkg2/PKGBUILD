@@ -2,7 +2,7 @@ pkgname=testpkg
 pkgver=1
 pkgrel=1
 pkgdesc="Second test package"
-arch=('i686')
+arch=('any')
 url="https://example.com/testpkg1"
 
 package() {
