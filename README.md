@@ -1,3 +1,3 @@
-# randpkg
+# Randpkg
 
-yo
+Test package for gitea integration tests.
